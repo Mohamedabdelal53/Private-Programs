@@ -1,0 +1,7 @@
+[detect-dangling-cname] [dns] [info] alerting-dc-usw3a-1.browserstack.com ["dc-usw3a-1-public.browserstack.com"]
+[detect-dangling-cname] [dns] [info] minion-test.browserstack.com ["internal-a6243bc337b2843af83cc2ee5aa6fed5-1598892501.us-east-1.elb.amazonaws.com"]
+[detect-dangling-cname] [dns] [info] mobilemail.browserstack.com ["mobilemail-v01.prod.mesa1.secureserver.net"]
+[detect-dangling-cname] [dns] [info] pda.browserstack.com ["mobilemail-v01.prod.mesa1.secureserver.net"]
+[detect-dangling-cname] [dns] [info] monitoring-dc-aps1a-1.browserstack.com ["dc-aps1a-1-public.browserstack.com"]
+[detect-dangling-cname] [dns] [info] monitoring-dc-usw3a-1.browserstack.com ["dc-usw3a-1-public.browserstack.com"]
+[detect-dangling-cname] [dns] [info] vpntest.browserstack.com ["vpn-core-001-ec2-use1e-prod.browserstack.com"]
